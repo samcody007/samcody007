@@ -1,14 +1,24 @@
-### Hi there 
+<h1 align="center">FrontEnd Developer</h1>
 
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**samcody007/samcody007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a front-end software engineer specializing in building high load front-end services. </br>
 
-Here are some ideas to get you started:
+## Connect With Me:
+[![Linkedin Badge](https://img.shields.io/badge/-SamandarM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samandar-murodaliyev-730b20270/)](https://linkedin.com/in/samandar-murodaliyev-730b20270) 
+[![Telegram Badge](https://img.shields.io/badge/@samcody-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/samcody_dev)](https://t.me/samcody_dev) 
+[![Instagram Badge](https://img.shields.io/badge/-samcody-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/samcody.dev/)](https://instagram.com/samcody.dev/) 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🔭 I’m currently working on Freelancer Team named  <a href="https://excellance-team.vercel.app/"> ExcelLanceTeam </a>
-- 🌱 I’m currently learning Next.js and TypeScript. Additionally I am currently learning some important language ( Korean and German language) 
-- 👯 I teach English language and FrontEnd technologies to my coursemates at University called TUIT(Tashkent University Information Technology In Uzbekistan)
-  ## Technologies
+- :computer: I’m currently working on Freelancer Team named  <a href="https://excellance-team.vercel.app/"> ExcelLanceTeam </a>
+- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
+- :triangular_flag_on_post:  I teach English language and FrontEnd technologies to my coursemates at University called TUIT(Tashkent University Information Technology In Uzbekistan)
+- :muscle: I’m currently learning Next.js and TypeScript. Additionally I am currently learning some important language ( Korean and German language) 
+- :rocket: Always ready to collaborate for Dev Experiments
+
+ 
+ 
+## ⚡ Technologies
   ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Image](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
