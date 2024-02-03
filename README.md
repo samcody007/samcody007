@@ -10,7 +10,7 @@ I am a front-end software engineer specializing in building high load front-end 
 [![Instagram Badge](https://img.shields.io/badge/-samcody-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/samcody.dev/)](https://instagram.com/samcody.dev/) 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I’m currently working on Freelancer Team named  <a href="https://excellance-team.vercel.app/"> ExcelLanceTeam </a>
+- :computer: I’m currently working on Freelancer Team named  <a border="none" color="white" href="https://excellance-team.vercel.app/"> ExcelLanceTeam </a>
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post:  I teach English language and FrontEnd technologies to my coursemates at University called TUIT(Tashkent University Information Technology In Uzbekistan)
 - :muscle: I’m currently learning Next.js and TypeScript. Additionally I am currently learning some important language ( Korean and German language) 
